@@ -1,2 +1,16 @@
 # Biometric-Examination-Attenance-System
 Using Java and MYSQL.
+![SEAS3c](https://user-images.githubusercontent.com/60045349/105733652-d6228980-5f42-11eb-80bf-ab37b28974b9.png)
+![SEAS](https://user-images.githubusercontent.com/60045349/105733659-d7ec4d00-5f42-11eb-8c9c-65f8f7389934.png)
+![SEAS1](https://user-images.githubusercontent.com/60045349/105733663-d884e380-5f42-11eb-9d6f-2ccd2d8f1802.png)
+![SEAS1a](https://user-images.githubusercontent.com/60045349/105733668-d9b61080-5f42-11eb-8450-811e861887cb.png)
+![SEAS1b](https://user-images.githubusercontent.com/60045349/105733679-dae73d80-5f42-11eb-84be-d60c4bd3493b.png)
+![SEAS1c](https://user-images.githubusercontent.com/60045349/105733684-dc186a80-5f42-11eb-8677-00b479ad523d.png)
+![SEAS2](https://user-images.githubusercontent.com/60045349/105733687-dcb10100-5f42-11eb-994d-85fb07036f05.png)
+![SEAS2a](https://user-images.githubusercontent.com/60045349/105733690-dd499780-5f42-11eb-8ce1-c5a8c53319e6.png)
+![SEAS2b](https://user-images.githubusercontent.com/60045349/105733692-dde22e00-5f42-11eb-8668-99e139f3725f.png)
+![SEAS2c](https://user-images.githubusercontent.com/60045349/105733694-de7ac480-5f42-11eb-87b2-5fb9753cd0e2.png)
+![SEAS2d](https://user-images.githubusercontent.com/60045349/105733699-dfabf180-5f42-11eb-8a79-a316b5b32449.png)
+![SEAS3](https://user-images.githubusercontent.com/60045349/105733705-e0dd1e80-5f42-11eb-97e2-1dac533abbb7.png)
+![SEAS3a](https://user-images.githubusercontent.com/60045349/105733707-e175b500-5f42-11eb-89c0-cd8ad7c0ac1b.png)
+![SEAS3b](https://user-images.githubusercontent.com/60045349/105733710-e2a6e200-5f42-11eb-9436-841003f7e1ae.png)
